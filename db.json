@@ -5,6 +5,12 @@
       "name": "Single Ladies",
       "singer": "Beyoncé",
       "emoji": "\uD83D\uDEAB\uD83D\uDC8D\uD83C\uDF07"
+    },
+    {
+      "id": "2",
+      "name": "Black or White",
+      "singer": "Michael Jackson",
+      "emoji": "⚫ \uD83E\uDD14 ⚪"
     }
   ]
 }
