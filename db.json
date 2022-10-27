@@ -23,7 +23,18 @@
       "name": "Blank Space",
       "singer": "Taylor Swift",
       "emoji": "⬜️ \uD83C\uDF0C"
+    },
+    {
+      "id": "5",
+      "name": "American Pie",
+      "singer": "Don McLean",
+      "emoji": "\uD83C\uDDFA\uD83C\uDDF8 \uD83E\uDD67"
+    },
+    {
+      "id": "6",
+      "name": "Cry Me a River",
+      "singer": "Justin Timberlake",
+      "emoji": "\uD83D\uDE2D \uD83C\uDFDE️"
     }
-
   ]
 }
