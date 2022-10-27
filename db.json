@@ -4,13 +4,26 @@
       "id": "1",
       "name": "Single Ladies",
       "singer": "Beyoncé",
-      "emoji": "\uD83D\uDEAB\uD83D\uDC8D\uD83C\uDF07"
+      "emoji": "\uD83D\uDEAB\uD83D\uDC8D\uD83D\uDC6F"
     },
     {
       "id": "2",
       "name": "Black or White",
       "singer": "Michael Jackson",
       "emoji": "⚫ \uD83E\uDD14 ⚪"
+    },
+    {
+      "id": "3",
+      "name": "Dusk Till Dawn",
+      "singer": "ZAYN",
+      "emoji": "\uD83C\uDF03 ➡️ \uD83C\uDF06"
+    },
+    {
+      "id": "4",
+      "name": "Blank Space",
+      "singer": "Taylor Swift",
+      "emoji": "⬜️ \uD83C\uDF0C"
     }
+
   ]
 }
